@@ -20,12 +20,16 @@ When I’m not crushing bugs 🐞 or building dreams 💡, you can find me lifti
 
 ---
 
-## 💻My Tech Stack
-**Languages:** Java, JavaScript, OOP  
-**Frontend:** React, HTML, CSS, Tailwind CSS, JSP, JSON  
-**Backend:** Spring Boot, Hibernate, J2EE, JDBC, RESTful APIs, ModelMapper  
-**Database:** MySQL  
-**Tools & Practices:** Git, Postman, MySQL Workbench, Maven, Debugging, Unit Testing, JUnit  
+## 💻 My Tech Stack  
+
+| **Category**     | **Technologies** |
+|------------------|------------------|
+| **📝 Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/> <img src="https://img.shields.io/badge/OOP-007ACC?style=for-the-badge&logoColor=white" height="28" title="OOP"/> |
+| **🎨 Frontend**  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/> <img src="https://img.icons8.com/color/48/tailwindcss.png" width="40" title="Tailwind CSS"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="40" title="JSP"/> <img src="https://img.icons8.com/color/48/json--v1.png" width="40" title="JSON"/> |
+| **⚙️ Backend**   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" title="Spring Boot"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" width="80" title="Hibernate"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="40" title="J2EE"/> <img src="https://img.icons8.com/ios-filled/50/000000/data.png" width="40" title="JDBC"/> <img src="https://img.icons8.com/color/48/api-settings.png" width="40" title="REST API"/> <img src="https://img.shields.io/badge/ModelMapper-7952B3?style=for-the-badge&logoColor=white" height="28" title="ModelMapper"/> |
+| **🗄 Database**  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="MySQL"/> |
+| **🛠 Tools & Practices** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/> <img src="https://img.icons8.com/fluency/48/mysql-logo.png" width="40" title="MySQL Workbench"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40" title="Maven"/> <img src="https://img.icons8.com/color/48/test-tube.png" width="40" title="JUnit"/> <img src="https://img.shields.io/badge/Debugging-FF6F00?style=for-the-badge&logoColor=white" height="28" title="Debugging"/> |
+
 
 
 
