@@ -1,6 +1,7 @@
 
+## Hey there👋 !  My name is JK Prasad  ![Profile Views](https://komarev.com/ghpvc/?username=JKPrasad01&label=Profile%20Views&color=0e75b6&style=flat)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi+👋,+I'm+Jillivari+Kuruva+Prasad;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+JS;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
 
-## Hey there👋 !  My name is JK Prasad
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jk-prasad)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/JKPrasad01)
@@ -29,6 +30,11 @@ When I’m not crushing bugs 🐞 or building dreams 💡, you can find me lifti
 | **⚙️ Backend**   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" title="Spring Boot"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" width="80" title="Hibernate"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="40" title="J2EE"/> <img src="https://img.icons8.com/ios-filled/50/000000/data.png" width="40" title="JDBC"/> <img src="https://img.icons8.com/color/48/api-settings.png" width="40" title="REST API"/> <img src="https://img.shields.io/badge/ModelMapper-7952B3?style=for-the-badge&logoColor=white" height="28" title="ModelMapper"/> |
 | **🗄 Database**  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="MySQL"/> |
 | **🛠 Tools & Practices** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/> <img src="https://img.icons8.com/fluency/48/mysql-logo.png" width="40" title="MySQL Workbench"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40" title="Maven"/> <img src="https://img.icons8.com/color/48/test-tube.png" width="40" title="JUnit"/> <img src="https://img.shields.io/badge/Debugging-FF6F00?style=for-the-badge&logoColor=white" height="28" title="Debugging"/> |
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JKPrasad01&show_icons=true&theme=tokyonight)
+
 
 
 
