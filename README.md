@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/JKPrasad01)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasadjk2241@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/JK_PRASAD/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF0000?style=flat&logo=google-chrome&logoColor=white)](https://jkprasad01.github.io/My-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF0000?style=flat&logo=google-chrome&logoColor=white)](https://jkprasad01.github.io/jk_prasad_portfolio/)
 
 
 
