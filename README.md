@@ -1,5 +1,5 @@
 
-## Hey there👋 !  My name is JK Prasad  ![Profile Views](https://komarev.com/ghpvc/?username=JKPrasad01&label=Profile%20Views&color=0e75b6&style=flat)
+## Hi there👋 !  My name is JK Prasad  ![Profile Views](https://komarev.com/ghpvc/?username=JKPrasad01&label=Profile%20Views&color=0e75b6&style=flat)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi+👋,+I'm+Jillivari+Kuruva+Prasad;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+JS;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
 
 
