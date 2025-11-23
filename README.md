@@ -16,7 +16,7 @@
 
 🚀 **Full Stack Developer | Java | React | Spring Boot**  
 
-I am from Hyderabad 🏙️, currently working as a **Full Stack Java Developer Intern** at 💻  [QuGates Technologies](https://qugates.com/qugates/q/) in bangalore 📍, building an interactable and **scalable web applications** 🌐 by delivering clean, maintainable code.  
+I am from Hyderabad 🏙️, currently working as a **junior Full Stack Java Developer ** at 💻  [QuGates Technologies](https://qugates.com/qugates/q/) in bangalore 📍, building an interactable and **secure web applications** 🌐 by delivering clean, maintainable code.  
 
 With hands-on experience in **Java Full Stack Development**, I love working across the stack — from designing responsive UIs 🎨 to architecting robust backend systems 🛠️.  
 
