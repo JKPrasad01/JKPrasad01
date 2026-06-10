@@ -129,12 +129,12 @@
 
 | Skill | Level | Experience |
 |-------|-------|------------|
-| **Java** | ⭐⭐⭐⭐ | 1 year + 4 months |
-| **Spring Boot** | ⭐⭐⭐⭐ | 1 year + 4 months |
-| **React.js** | ⭐⭐⭐⭐ | 1 year + 4 months |
-| **MySQL** | ⭐⭐⭐⭐ | 1 year + 4 months |
-| **REST APIs** | ⭐⭐⭐⭐ | 1 year + 4 months |
-| **Docker** | ⭐⭐⭐ | 1 year |
+| **Java** | ⭐⭐⭐⭐ | 1 year + 1 month |
+| **Spring Boot** | ⭐⭐⭐⭐ | 1 year + 1 month |
+| **React.js** | ⭐⭐⭐⭐ | 1 year + 1 month |
+| **MySQL** | ⭐⭐⭐⭐ | 1 year + 1 month |
+| **REST APIs** | ⭐⭐⭐⭐ | 1 year + 1 month |
+| **Docker** | ⭐⭐⭐ | 6 months |
 | **Problem Solving** | ⭐⭐⭐⭐ | Continuous |
 
 ---
