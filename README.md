@@ -129,13 +129,13 @@
 
 | Skill | Level | Experience |
 |-------|-------|------------|
-| **Java** | ⭐⭐⭐⭐⭐ | 2+ years |
-| **Spring Boot** | ⭐⭐⭐⭐⭐ | 2+ years |
-| **React.js** | ⭐⭐⭐⭐ | 1.5+ years |
-| **MySQL** | ⭐⭐⭐⭐ | 2+ years |
-| **REST APIs** | ⭐⭐⭐⭐⭐ | 2+ years |
-| **Docker** | ⭐⭐⭐ | 1+ year |
-| **Problem Solving** | ⭐⭐⭐⭐⭐ | Continuous |
+| **Java** | ⭐⭐⭐⭐ | 1 year + 4 months |
+| **Spring Boot** | ⭐⭐⭐⭐ | 1 year + 4 months |
+| **React.js** | ⭐⭐⭐⭐ | 1 year + 4 months |
+| **MySQL** | ⭐⭐⭐⭐ | 1 year + 4 months |
+| **REST APIs** | ⭐⭐⭐⭐ | 1 year + 4 months |
+| **Docker** | ⭐⭐⭐ | 1 year |
+| **Problem Solving** | ⭐⭐⭐⭐ | Continuous |
 
 ---
 
@@ -176,12 +176,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 🌐 Portfolio: [jkprasad01.github.io](https://jkprasad01.github.io/jk_prasad_portfolio/)
 
 ---
-
-<div align="center">
-
-### ⭐ *"The best time to plant a tree was 20 years ago. The second best time is now."*
-
-### Made with ❤️ by [JK Prasad](https://github.com/JKPrasad01)
 
 ![Years Badge](https://badges.pufler.dev/years/JKPrasad01)
 ![Repos Badge](https://badges.pufler.dev/repos/JKPrasad01)
